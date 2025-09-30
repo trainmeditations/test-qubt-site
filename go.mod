@@ -1,4 +1,4 @@
-module github.com/chrede88/qubtTemplate
+module github.com/trainmeditations/test-qubt-site
 
 go 1.25.1
 
